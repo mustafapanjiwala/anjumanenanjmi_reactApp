@@ -34,10 +34,7 @@ const Home = () => {
         <div className="container full-height">
             <div className="row align-items-center justify-content-center full-height col-md-10 col-12 mx-auto my-auto">
                 <div className="youtube">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/ll8UV1tD_3s"
-                        title="YouTube video player" frameBorder="0"
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                        allowFullScreen></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/sG9JQds26h8" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfFullScreen></iframe>
                 </div>
             </div>
         </div>
