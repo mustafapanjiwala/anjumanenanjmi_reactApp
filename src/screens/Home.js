@@ -34,7 +34,7 @@ const Home = () => {
         <div className="container full-height">
             <div className="row align-items-center justify-content-center full-height col-md-10 col-12 mx-auto my-auto">
                 <div className="youtube">
-                    <iframe width="853" height="480" src="https://www.youtube.com/embed/F7xnnOMlCtQ" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfFullScreen></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/F7xnnOMlCtQ" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
                     {/* <h1 style={{fontSize: "3rem"}}>No Current Events </h1> */}  
                 </div>
             </div>
